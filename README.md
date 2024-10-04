@@ -1,4 +1,4 @@
-My name is Yerin🌱
+My name is Yerin🍀
 
 <div align = center>
   <h3> 💻 Tech Stack 📚 </h3>
@@ -20,6 +20,8 @@ My name is Yerin🌱
   <br>
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>
 
+  <h3> 📝 portfolio 🍀</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=notion&logoColor=white"/></a>
 </div>
 
 
