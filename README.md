@@ -20,10 +20,12 @@ My name is Yerin🍀
   <br>
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/>
 
-  <h3> 📝 portfolio 📘</h3>
+  <h3> 📝 portfolio ✨</h3>
   <a href="https://rin1004.github.io/">
-    <img src="https://img.shields.io/badge/notion-3776AB?style=flat-square&logo=notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/blog-3776AB?style=flat-square&logo=blog&logoColor=white"/>
   </a>
+  <img src="https://img.shields.io/badge/notion-3776AB?style=flat-square&logo=notion&logoColor=white"/>
+  
 </div>
 
 
